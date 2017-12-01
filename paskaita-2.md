@@ -28,4 +28,4 @@
 
 ## Užduotys
 
-Bus papildyta.
+- Susikurti GitHub'e repozitoriją savo Laravel projektui, su kuriuo dirbame paskaitų metu, ir atsiųsti nuorodą į ją (FB žinutė puikiausiai tinka)
