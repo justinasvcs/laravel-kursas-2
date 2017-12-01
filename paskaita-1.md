@@ -29,6 +29,8 @@ Nėra :( Pamiršau paspausti lemiamą mygtuką "Start broadcasting".
 
 4.2. Naudojame Composer suteikiamą PSR-4 autoload'ą, aprašomą `composer.json` faile, generuojam `vendor/autoload.php`, kuris atlieka reikiamą darbą pasinaudojus komandine eilute: `composer dumpautoload`.
 
+4.3. Susikuriam duomenų bazę, lentelę `products` ir užpildome duomenimis, jog būtumėm pasiruošę darbui su modeliais.
+
 ## Užduotys
 
 -
