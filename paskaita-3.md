@@ -45,4 +45,16 @@
 
 ## Užduotys
 
-Bus papildyta.
+1. Turime susikurti naują resursą: produktų kategorijas, tad reikia:
+
+* susikurti migraciją ir modelį naudojant `php artisan make:model Category --migration` komandą
+
+* `categories` sukūrimo migracija turi turėti id, timestamps laukus by default. Prisidedam dar tokius: `name`, `parent_id`(default value 0)
+
+* susikurti resource controllerį `CategoriesController`
+
+* papildyti `routes/web.php` resource route'ais
+
+* įsidedam nuorodą į navigaciją, per kurią pasiektumėm kategorijų sąrašą
+
+* pasiruošiam viewsus tiem patiems metodams, su kuriais jau esam susipažinę: sąrašas, viena kategorija, kategorijos kūrimo forma
