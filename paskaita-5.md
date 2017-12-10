@@ -20,7 +20,7 @@
 
 * Primenu, kad būtina būti pasiruošusiems kategorijų migraciją, modelį, pilnai veikiantį controllerį ir viewsus. Kitos pateiktos užduotys šįsyk daugiau kaip mankšta ir galvosūkiai :)
 
-* Paprasta: Jeigu produkto įrašas neturi nuotraukos, atvaizduoti nustatytą placeholderį, [pavyzdys](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_confirm)
+* Paprasta: Jeigu produkto įrašas neturi nuotraukos, atvaizduoti nustatytą placeholderį, [pavyzdys](http://aquasportsgoa.com/wp-content/themes/456sailing/assets/img/no-product-image.png)
 
 * Sudėtinga: Galimybė vartotojui įkelti nuotrauką arba nurodyti URL nuotraukos, kuri guli kažkur internete. Iš čia galima skelti užduotį į dar du etapus:
 
